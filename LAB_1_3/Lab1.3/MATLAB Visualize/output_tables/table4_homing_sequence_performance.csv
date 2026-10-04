@@ -1,0 +1,4 @@
+Trial,Filename,Trigger_Time_s,Raw_Offset_rad,Calibrated_at_Trigger_rad,Post_Homing_Mean_rad,Post_Homing_SD_rad,Status
+1,homing(1).mat,34.555,0.0184077694546277,0,0,0,Success
+2,homing(2).mat,12.492,0.0184077694546277,0,0,0,Success
+3,homing(3).mat,19.619,0.0184077694546277,0,0,0,Success

@@ -1,0 +1,7 @@
+Wrap_Type,Trial,Filename,Detected_Wraps,First_Wrap_Time_s,Raw_Count_Before,Raw_Count_After,Unwrapped_Before,Unwrapped_After,Continuity_Error_Pulses,Peak_Unwrapped_Pulses,Peak_Degrees_Continuous
+Overflow (Wrap-Max),1,Wrap-max(1).mat,1,29.628,65399,249,65399,65785,0,79911,3511.7138671875
+Overflow (Wrap-Max),2,Wrap-max(2).mat,1,74.983,65527,1,65527,65537,0,82457,3623.5986328125
+Overflow (Wrap-Max),3,Wrap-max(3).mat,2,60.517,65471,43,65471,65579,0,73149,3214.5556640625
+Underflow (Wrap-Min),1,Wrap-min(1).mat,1,3.267,0,65532,0,-4,0,-8370,-367.822265625
+Underflow (Wrap-Min),2,Wrap-min(2).mat,1,4.895,0,65503,0,-33,0,-8118,-356.748046875
+Underflow (Wrap-Min),3,Wrap-min(3).mat,1,3.982,0,65535,-1,-2,0,-8258,-362.900390625
