@@ -1,0 +1,6 @@
+Sensor,Type,Identified_Taper,Avg_Sensitivity,Sensitivity_Unit,R_Squared,Max_Linearity_Error_pctFS
+RAW1,Rotary Potentiometer,Type C (Reverse Log),32.84725606,mV/degree,0.856935273,23.5838953
+RAW2,Rotary Potentiometer,Type B (Linear),32.87703663,mV/degree,0.988283412,8.573785059
+RAW3,Rotary Potentiometer,Type C (Reverse Log),32.86601972,mV/degree,0.783913079,25.77412778
+RAW4,Linear Slide Potentiometer,Type C (Reverse Log),0.547782612,V/cm,0.859534882,21.14201691
+RAW5,Linear Slide Potentiometer,Type B (Linear),0.547919718,V/cm,0.996098875,5.73354795

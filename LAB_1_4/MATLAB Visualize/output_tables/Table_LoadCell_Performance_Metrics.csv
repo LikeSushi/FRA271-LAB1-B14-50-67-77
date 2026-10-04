@@ -1,0 +1,19 @@
+Metric_Parameter,Value_Description
+Sensor Type,Strain Gauge Load Cell (Piezoresistive Full Bridge)
+Rated Capacity (Full Scale),9.961 kg (97.68 N)
+Operating Supply Voltage,3.30 V (STM32 Regulated Rail)
+ADC Resolution,12-bit (0.806 mV / LSB)
+Mean Sensitivity (Mass),170.16 mV/kg (0.1702 V/kg)
+Mean Sensitivity (Force),17.35 mV/N (0.01735 V/N)
+Zero-Load Offset Voltage,0.0580 V (Offset b)
+Linear Regression Equation,V = 0.1702*m + 0.0580
+Linearity Determination R^2,0.99525
+Maximum Linearity Error,4.55 % FS
+2nd-Order Polynomial R^2,0.99839
+Maximum Polynomial Error,2.75 % FS
+Maximum Repeatability SD,0.0018 V (1.76 mV)
+Maximum Repeatability Error,0.11 % FS
+Inverse Calibration Equation,m = 5.8490*V - 0.3117
+Maximum Calibration Error,4.05 % FS
+Average RMS Noise Floor,2.59 mV
+Peak Signal-to-Noise Ratio (SNR),56.29 dB

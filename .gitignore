@@ -1,0 +1,11 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Office temp files
+~$*
+
+# OS / Editor
+.DS_Store
+*.tmp
